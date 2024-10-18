@@ -1,0 +1,8 @@
+
+git status
+git add Accessmodifires.java
+git status
+git commit -m "Access modifire "
+git status
+git branch
+git push origin master
